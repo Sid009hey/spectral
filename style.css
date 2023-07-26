@@ -90,10 +90,6 @@ body {
   text-shadow: 0px 0px 23px #4ab3ba;
   font-size: 70px;
   font-weight: bold;
-background: linear-gradient(
-	to bottom, #296063, #99f8ff);
--webkit-text-fill-color: transparent;
--webkit-background-clip: text;
 }
 
 .subtitle {
